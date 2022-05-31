@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Session-01-Obligatory/static/css/main.35db3341.css",
-    "main.js": "/React-Session-01-Obligatory/static/js/main.ff501102.js",
+    "main.css": "/React-Session-01-Obligatory/static/css/main.b943c920.css",
+    "main.js": "/React-Session-01-Obligatory/static/js/main.d968c316.js",
     "static/js/787.02874e0e.chunk.js": "/React-Session-01-Obligatory/static/js/787.02874e0e.chunk.js",
     "static/media/tv.jpg": "/React-Session-01-Obligatory/static/media/tv.52cae3f89717ab33a4fe.jpg",
     "static/media/v.jpg": "/React-Session-01-Obligatory/static/media/v.83f28975645038fbef47.jpg",
     "static/media/ss.jpg": "/React-Session-01-Obligatory/static/media/ss.dfa531058db4c5428429.jpg",
     "index.html": "/React-Session-01-Obligatory/index.html",
-    "main.35db3341.css.map": "/React-Session-01-Obligatory/static/css/main.35db3341.css.map",
-    "main.ff501102.js.map": "/React-Session-01-Obligatory/static/js/main.ff501102.js.map",
+    "main.b943c920.css.map": "/React-Session-01-Obligatory/static/css/main.b943c920.css.map",
+    "main.d968c316.js.map": "/React-Session-01-Obligatory/static/js/main.d968c316.js.map",
     "787.02874e0e.chunk.js.map": "/React-Session-01-Obligatory/static/js/787.02874e0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35db3341.css",
-    "static/js/main.ff501102.js"
+    "static/css/main.b943c920.css",
+    "static/js/main.d968c316.js"
   ]
 }
